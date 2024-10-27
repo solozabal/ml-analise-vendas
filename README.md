@@ -4,7 +4,7 @@ Este projeto realiza uma análise de vendas utilizando **Python**, **SQLite**, *
 
 ## 📁 Estrutura do Projeto
 
-```plaintext
+
 ml-analise-vendas
 │
 ├── venv/               # Ambiente virtual
@@ -13,7 +13,7 @@ ml-analise-vendas
 ├── requirements.txt    # Dependências do projeto
 └── main.py             # Script principal
 
-⚙️ Requisitos
+## ⚙️ Requisitos
 
 Python 3.x
 Pandas
@@ -21,7 +21,7 @@ Matplotlib
 Seaborn
 SQLite3
 
-🚀 Instalação
+## 🚀 Instalação
 
 1. Clone o repositório:
 
@@ -31,8 +31,10 @@ cd ml-analise-vendas
 2. Crie e ative um ambiente virtual:
 
 python -m venv venv
+
 # No Windows
 .\venv\Scripts\activate
+
 # No Linux/macOS
 source venv/bin/activate
 
@@ -40,12 +42,12 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-▶️ Execução
+## ▶️ Execução
 Para executar o script, certifique-se de que o ambiente virtual está ativado e execute o comando:
 
 python main.py
 
-📝 Descrição do Script
+## 📝 Descrição do Script
 O script main.py realiza as seguintes etapas:
 
 1. Criar e Popular o Banco de Dados
@@ -64,7 +66,8 @@ Analisa o total de vendas e a quantidade de vendas por categoria, produto e mês
 4. Visualizações com Matplotlib e Seaborn
 Gera gráficos de barras, gráficos de pizza, gráficos de linha e um heatmap para visualizar os dados.
 
-📊 Visualizações
+## 📊 Visualizações
+
 Total de Vendas por Categoria
 Proporção de Vendas por Categoria
 Quantidade de Vendas por Categoria
@@ -72,13 +75,13 @@ Top 5 Produtos mais Vendidos em Valor
 Vendas ao Longo dos Meses
 Correlação entre Variáveis Numéricas
 
-📜 Licença
+## 📜 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🤝 Contribuição
+## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-📬 Contato
+## 📬 Contato
 Pedro Solozabal
 ✉️ contato@solozabal.com.br
 🔗 https://github.com/solozabal/ml-analise-vendas
