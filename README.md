@@ -2,8 +2,6 @@
 
 Este projeto realiza uma análise de vendas utilizando **Python**, **SQLite**, **Pandas**, **Matplotlib** e **Seaborn**. O objetivo é criar um banco de dados de vendas, carregar os dados em um DataFrame do Pandas, realizar análises e gerar visualizações gráficas.
 
----
-
 ## 📁 Estrutura do Projeto
 
 ```plaintext
@@ -83,4 +81,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 📬 Contato
 Pedro Solozabal
 ✉️ contato@solozabal.com.br
-🔗 Projeto no GitHub
+🔗 https://github.com/solozabal/ml-analise-vendas
